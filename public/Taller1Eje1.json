@@ -1,0 +1,51 @@
+[
+  {
+    "nombre": "Pera",
+    "precio": 0.35
+  }
+  ,
+    {
+    "nombre": "Manzana",
+    "precio": 0.5
+  }
+  ,
+    {
+    "nombre": "Uvas",
+    "precio": 1
+  }
+  ,
+    {
+    "nombre": "Sandia",
+    "precio": 1.50
+  }
+  ,
+    {
+    "nombre": "Aguacate",
+    "precio": 0.3
+  }
+  ,
+    {
+    "nombre": "Melon",
+    "precio": 1.25
+  }
+  ,
+    {
+    "nombre": "Miel",
+    "precio": 0.5
+  }
+  ,
+    {
+    "nombre": "Azucar",
+    "precio": 0.65
+  }
+  ,
+    {
+    "nombre": "Cafe",
+    "precio": 0.25
+  }
+  ,
+    {
+    "nombre": "Leche",
+    "precio": 1.45
+  }
+]
